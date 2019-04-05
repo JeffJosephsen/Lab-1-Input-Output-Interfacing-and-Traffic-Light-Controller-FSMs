@@ -1,4 +1,4 @@
-# Lab-1-Input-Output-Interfacing-and-Traffic-Light-Controller-FSMs
+# TIVA-ARM-Input-Output-Interfacing-and-Traffic-Light-Controller-FSMs
 Lab 1: Input/Output Interfacing and Traffic Light Controller, FSMs
 
 Abstract:
